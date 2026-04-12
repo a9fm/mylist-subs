@@ -3,4 +3,3 @@ hysteria2://strong-secret-pass-777@45.140.167.209:444?sni=www.microsoft.com&inse
 socks5://192.168.2.234:2080
 socks5://192.168.2.133:2080
 socks5://192.168.2.233:2080
-vless://2e003a55-9f2b-4b6f-8f5e-16713345554f@ponchik0288.serv00.net:22506?encryption=none&security=none&type=ws#Ponchik

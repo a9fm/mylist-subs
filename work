@@ -4,3 +4,4 @@ socks5://192.168.2.133:2080
 socks5://192.168.2.134:2080
 socks5://192.168.2.233:2080
 socks5://192.168.2.234:2080
+hysteria2://abc123@pl1-lite.epichost.pl:10090/?insecure=1&sni=kakakaka123.net#test

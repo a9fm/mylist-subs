@@ -6,6 +6,7 @@ vless://41e72698-f09a-4617-8f1b-33359c2473cc@95.85.239.96:443?encryption=none&fl
 vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.181.132:52006?encryption=none&flow=xtls-rprx-vision&security=tls&sni=cluster-de-1.firstvideocdn.ru&insecure=1&allowInsecure=1&type=tcp&headerType=none#212.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
 vless://981fca81-5be1-41f8-ac9b-d138e8109943@109.120.134.232:8443?encryption=none&host=babayaga-6i7.pages.dev&security=tls&sni=babayaga-6i7.pages.dev&type=ws#0037%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20VLESS%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG:%20@YoutubeUnBlockRu
 vless://c603d9a2-a89a-4b62-ac96-346d3b52620c@94.228.219.36:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=9WnuH4KUb9-cCqbApq4bVLDhrqhPbpnd5eTn14bGciA&security=reality&sid=c25bd5a0bfdc06&sni=hls-svod.itunes.apple.com&type=tcp#0027%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20VLESS%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG:%20@YoutubeUnBlockRu
+vless://07a3c328-e585-450e-8ef5-742880b28f3b@n25.joinserver.xyz:25968?encryption=none&security=none&type=ws&host=t.me&path=%2F#test
 trojan://162534@43.165.190.11:42841?security=tls&sni=cchh2.pages.dev&insecure=1&allowInsecure=1&type=ws&host=cchh2.pages.dev&path=%2F#%F0%9F%8F%B3%EF%B8%8F%20%3F%3F
 trojan://162534@5.223.56.239:8443?security=tls&sni=cchh2.pages.dev&insecure=1&allowInsecure=1&type=ws&host=cchh2.pages.dev&path=%2F#%F0%9F%8F%B3%EF%B8%8F%20%3F%3F
 socks5://192.168.2.133:2080
